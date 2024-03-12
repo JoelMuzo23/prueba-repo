@@ -8,7 +8,8 @@ def mifunction(x):
 ```
 
 ESTO ES UNA LISTA :
-- hola
 - Mundo
 
   Esta es la [Sintaxis de Markdown](https://es.wikipedia.org/wiki/Markdown), puedes verlo.
+  
+  Estos son nuevos cambios
